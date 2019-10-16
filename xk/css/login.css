@@ -1,0 +1,25 @@
+body {
+  background-image: url(../img/bj.jpg);
+  background-size: 100%;
+}
+.login {
+  width: 800px;
+  height: 300px;
+  margin: 200px auto;
+  border: 1px;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 1px;
+  position: relative;
+  color: #fff;
+}
+.center{
+  margin-left: 25%;
+  margin-top: 10%;
+}
+.se{
+  display: inline;
+  width: 210px;
+  height: 30px;
+}
+
+
